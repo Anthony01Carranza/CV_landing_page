@@ -339,14 +339,14 @@
       z-index: 5;
   }
   
-  p{
+  .text-index{
       display: block;
       width: 80%;
       font-size: 1.6em;
       color: #3d535f;
   }
   
-  h1{
+  .text-title-index{
       margin: 0;
       display: block;
       font-size: 1.8em;
